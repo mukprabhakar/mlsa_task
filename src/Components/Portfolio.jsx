@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/gfg.webp";
+import image from "https://images.unsplash.com/photo-1715276611505-fbea90d3e9e3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8fA%3D%3D";
 
 const imageAltText = "dessfdlhk;sn";
 
@@ -31,28 +31,28 @@ const imageAltText = "dessfdlhk;sn";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Problem Of the Day 🎉",
     description:
       "Collaboration tsdbgfhjlkl;cvbtrdmyuoipscdl;kj;;.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/mukprabhakar/Problem-Of-The-Day1",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ATM Interface",
     description:
       "Contributed wcbtrmyuopiccccl; roiupdf hgl̥.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://github.com/mukprabhakar/ATM_INTERFACE",
   },
   {
-    title: "My Resume Site",
+    title: "Online Seat Booking",
     description:
       "Createqweqrrbtoicvemyuopsfd,hjioasdvbgfnmhjuoievbtrmyuo/i.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/mukprabhakar/online_registration",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Matrix Calculator",
     description:
       "Vidaxsdbgflkj fl̥ rtyuxwbtrmyui u,i,.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://github.com/mukprabhakar/Matrix-Calculator_by_c_langauge",
   },
 ];
 

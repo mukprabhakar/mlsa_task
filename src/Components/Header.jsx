@@ -25,6 +25,7 @@ const Header = () => {
       <a href="#about">About</a>
       <a href="#portfolio">Portfolio</a>
       <a href="#footer">Contact</a>
+      <a href="#home">Sign Up</a>
     </div>
   );
 };
